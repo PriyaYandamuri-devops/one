@@ -1,5 +1,5 @@
 <!doctype html>
-<html lang="en"
+<html lang="en">
 
 <head>
     <meta charset="utf-8" />
@@ -21,9 +21,8 @@
             --success: #28a745;
             --radius: 12px;
             --container: 1200px;
-        }
 
-        * {
+        * 
             box-sizing: border-box
         }
 
